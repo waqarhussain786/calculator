@@ -21,7 +21,7 @@ body{
     padding: 14px;
     border-radius: 10px;
     box-shadow: 10px 20px 10px rgb(0, 0, 0);
-    background: linear-gradient(45deg, rgb(15, 15, 15), rgb(125, 125, 125));
+    background: linear-gradient(-20deg, rgb(15, 15, 15), rgb(125, 125, 125));
 }
 
 input{
@@ -61,7 +61,6 @@ button{
     width: 100%;
     justify-content: center;
     align-items: center;
-    /* background-color: aqua; */
 }
 button:hover{
     background-color: white;
