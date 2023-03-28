@@ -55,6 +55,14 @@ button{
     color: white;
     font-weight: 600;
 }
+.center{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    /* background-color: aqua; */
+}
 button:hover{
     background-color: white;
     color: black;
